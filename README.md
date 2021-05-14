@@ -11,10 +11,16 @@ Madan Lal
 Project Specifications:
 
 Application Platform: Android
+
 Emulator version: Android Oreo
+
 Development IDE: IntelliJ Android Studio
+
 Storage: Google Firebase
+
 Visual Recogntn Platform: IBM Blue mix Node red (Watson)
+
 Text to speech service: Google speech service
+
 Oprating System: Window 10
 
